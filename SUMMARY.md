@@ -45,8 +45,13 @@
     * 指定群成员强制推送
   * [群组管理](qun-zu-gong-neng/qun-zu-guan-li.md)
     * [获取群组](qun-zu-gong-neng/qun-zu-guan-li/huo-qu-qun-zu.md)
-    * 创建群组
-    * 申请加入群组
+    * [创建群组](qun-zu-gong-neng/qun-zu-guan-li/chuang-jian-qun-zu.md)
+    * [申请加入群组](qun-zu-gong-neng/qun-zu-guan-li/shen-qing-jia-ru-qun-zu.md)
+    * 验证入群申请
+    * 邀请加入群组
+    * 验证入群邀请
+    * 踢人出群
+    * 主动退群
 
 
 
