@@ -45,7 +45,6 @@
     * 指定群成员强制推送
   * [群组管理](qun-zu-gong-neng/qun-zu-guan-li.md)
     * 获取群组
-    * 创建群组
 
 
 
