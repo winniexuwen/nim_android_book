@@ -44,7 +44,9 @@
     * 消息提醒
     * 指定群成员强制推送
   * [群组管理](qun-zu-gong-neng/qun-zu-guan-li.md)
-    * 获取群组
+    * [获取群组](qun-zu-gong-neng/qun-zu-guan-li/huo-qu-qun-zu.md)
+    * 创建群组
+    * 申请加入群组
 
 
 
