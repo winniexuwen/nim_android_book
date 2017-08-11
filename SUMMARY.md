@@ -6,6 +6,7 @@
 * [初始化](chu-shi-hua.md)
 * [登录与登出](deng-lu-yu-deng-chu.md)
 * [消息收发](xiao-xi-shou-fa.md)
+* 消息全文检索
 * [消息提醒](xiao-xi-ti-xing.md)
 * [推送](tui-song.md)
 * [群组功能](qun-zu-gong-neng.md)
@@ -15,5 +16,5 @@
 * APNS推送
 * 用户资料托管
 * 用户关系托管
-* 智能对话机器人
+* 消息全文检索
 
