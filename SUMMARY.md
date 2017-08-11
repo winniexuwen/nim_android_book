@@ -6,55 +6,11 @@
 * [初始化](chu-shi-hua.md)
 * [登录与登出](deng-lu-yu-deng-chu.md)
 * [消息收发](xiao-xi-shou-fa.md)
-* 消息提醒
+* [消息提醒](xiao-xi-ti-xing.md)
 * [推送](tui-song.md)
 * [群组功能](qun-zu-gong-neng.md)
-  * 群组功能概述
-  * 群组消息
-    * 消息收发
-    * 消息提醒
-    * 指定群成员强制推送
-  * [群组管理](qun-zu-gong-neng/qun-zu-guan-li.md)
-    * [获取群组](qun-zu-gong-neng/qun-zu-guan-li/huo-qu-qun-zu.md)
-    * [创建群组](qun-zu-gong-neng/qun-zu-guan-li/chuang-jian-qun-zu.md)
-    * [申请加入群组](qun-zu-gong-neng/qun-zu-guan-li/shen-qing-jia-ru-qun-zu.md)
-    * 验证入群申请
-    * 邀请加入群组
-    * 验证入群邀请
-    * 踢人出群
-    * 主动退群
-    * 转让群组
-    * 解散群组
-    * 获取群组成员
-    * 添加移除管理员
-    * 群成员禁言
-    * 查询被禁言群成员
-  * 群组资料管理
-    * 查询群组资料
-    * 修改群组资料
-    * 监听群组资料变化
-    * 修改群成员群昵称
-    * 修改自己的群昵称
-    * 修改自己的群成员扩展字段
-    * 监听群成员资料变化
-  * 群组通知
-  * 自定义扩展
-* 聊天室
-  * 聊天室功能概述
-  * 进入聊天室
-  * 离开聊天室
-  * 消息收发
-  * 聊天室通知消息
-  * 管理聊天室
-    * 查询聊天室消息历史
-    * 获取聊天室信息
-    * 修改聊天室信息
-    * 获取聊天室成员
-    * 修改自己的聊天室成员信息
-    * 聊天室权限管理
-    * 踢出成员
-    * 聊天室禁言
-* 系统通知
+* [聊天室](liao-tian-shi.md)
+* [系统通知](xi-tong-tong-zhi.md)
 * 事件订阅（在线状态）
 * APNS推送
 * 用户资料托管
